@@ -1,0 +1,4 @@
+.history
+*.csv
+*.yaml
+qlib_data
